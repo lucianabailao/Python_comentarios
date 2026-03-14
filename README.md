@@ -1,4 +1,5 @@
-# Sentinela de Feedback – Classificador Inteligente de Comentários
+# Sentinela de Feedback
+Classificador Inteligente de Comentários
 
 Sistema de análise de feedback de clientes utilizando Inteligência Artificial e automação de dados para identificar sentimento, definir prioridade de atendimento e armazenar informações em banco de dados.
 
@@ -6,7 +7,7 @@ O projeto simula um cenário real de empresas que recebem grandes volumes de com
 
 ---
 
-# 🚀 Live Demo
+#  Live Demo
 
 Acesse a aplicação online:
 

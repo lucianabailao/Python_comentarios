@@ -1,35 +1,37 @@
-# Sentinela de Feedback
+# Sentinela de Feedback – Classificador Inteligente de Comentários
 
-Projeto de automação de dados com IA que classifica feedback de clientes.
+Sistema de análise de feedback de clientes utilizando Inteligência Artificial e automação de dados para identificar sentimento, definir prioridade de atendimento e armazenar informações em banco de dados.
 
-## Tecnologias
+O projeto simula um cenário real de empresas que recebem grandes volumes de comentários de clientes e precisam identificar rapidamente críticas, elogios e mensagens urgentes.
 
-Python
-TextBlob
-Pandas
-SQLAlchemy
-SQLite
+---
 
-## O que o projeto faz
+# 🚀 Live Demo
 
-Analisa comentários de clientes usando NLP e classifica o sentimento em:
+Acesse a aplicação online:
 
-Positivo
-Neutro
-Negativo
+🔗 Live Demo: https://dashboardpy-k67z9nhbppvn2zkmhkovz3.streamlit.app/
 
-Depois salva tudo em um banco de dados SQL.
 
-## Como executar
+---
 
-1 criar ambiente virtual
-python -m venv venv
+#  Funcionalidades
 
-2 ativar
-venv\Scripts\activate
+- Classificação automática de sentimento de comentários
+- Definição de prioridade de atendimento (Alta, Média ou Baixa)
+- Armazenamento estruturado em banco de dados SQL
+- Dashboard interativo para análise de feedback
+- Inserção de novos comentários diretamente pela interface
+- Visualização gráfica da distribuição de sentimentos
 
-3 instalar bibliotecas
-pip install -r requirements.txt
+---
 
-4 executar
-python src/app.py
+#  Tecnologias Utilizadas
+
+- Python
+- Streamlit
+- Pandas
+- TextBlob
+- SQLAlchemy
+- SQLite
+
